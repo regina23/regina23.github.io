@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Regina23&#39;s Blog</title>
-        <link>https://www.regina23.com/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 02 Nov 2022 18:28:54 &#43;0800</lastBuildDate>
-            <atom:link href="https://www.regina23.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Regina23&#39;s Blog</title>
+        <link>https://www.regina23.com/posts/</link>
+        <description>All Posts | Regina23&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 02 Nov 2022 18:28:54 &#43;0800</lastBuildDate><atom:link href="https://www.regina23.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hugo博客搭建</title>
     <link>https://www.regina23.com/posts/hugo-setup/</link>
     <pubDate>Wed, 02 Nov 2022 18:28:54 &#43;0800</pubDate>
