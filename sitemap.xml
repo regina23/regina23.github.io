@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/java-summary/</loc>
+    <loc>https://www.regina23.com/posts/java-summary/</loc>
     <lastmod>2025-06-01T16:37:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.regina23.com/posts/</loc>
     <lastmod>2025-06-01T16:37:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.regina23.com/</loc>
     <lastmod>2025-06-01T16:37:03+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/theme-customization/</loc>
+    <loc>https://www.regina23.com/posts/theme-customization/</loc>
     <lastmod>2023-01-12T18:25:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/cpp-new-features/</loc>
+    <loc>https://www.regina23.com/posts/cpp-new-features/</loc>
     <lastmod>2023-01-10T16:19:36+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/effective-cpp/</loc>
+    <loc>https://www.regina23.com/posts/effective-cpp/</loc>
     <lastmod>2022-12-14T15:36:12+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/picgo-github/</loc>
+    <loc>https://www.regina23.com/posts/picgo-github/</loc>
     <lastmod>2022-11-10T17:50:55+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hugo-deployment/</loc>
+    <loc>https://www.regina23.com/posts/hugo-deployment/</loc>
     <lastmod>2022-11-03T14:21:52+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hugo-setup/</loc>
+    <loc>https://www.regina23.com/posts/hugo-setup/</loc>
     <lastmod>2022-11-02T18:28:54+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.regina23.com/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
